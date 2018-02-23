@@ -1,0 +1,26 @@
+- title: Módulos Digitales
+  items:
+    - id: button
+      title: Botón
+    - id: led
+      title: LED
+    - id: rgb-leds
+      title: LEDs RGB
+    - id: lcd-display
+      title: Display LCD
+- title: Sensores
+  items:
+    - id: rotary-sensor
+      title: Sensor Rotatorio
+    - id: distance-sensor
+      title: Sensor de Distancia
+    - id: light-sensor
+      title: Sensor de Luz
+    - id: line-sensors
+      title: Sensores de Linea
+- title: Electromecánicos
+  items:
+    - id: motor-controller
+      title: Controlador de Motores
+    - id: servo-controller
+      title: Controlador de Servos
