@@ -4,7 +4,7 @@ import Helmet from 'react-helmet';
 
 import './index.scss';
 import '../styles/prism/prism.scss';
-import '../styles/fontawesome-free-5.0.6/svg-with-js/js/fontawesome-all.min';
+import '../assets/icons/fontawesome-all.min';
 
 import Header from '../components/Header';
 import Footer from '../components/Footer';
